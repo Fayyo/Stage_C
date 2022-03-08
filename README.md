@@ -1,3 +1,3 @@
 # Stage_C
 
-Logistic Regression Classification
+Machine Learning Classification
